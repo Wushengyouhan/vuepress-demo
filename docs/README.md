@@ -1,16 +1,9 @@
 ---
 home: true
-heroImage: /shouye.jpg
-heroText: 我的主页
-tagline: My homepage
-actionText: 技术文档 →
-actionLink: /tech/interview/
-features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: 南宫的个人博客
+heroText: Wushengyouhan
+tagline: 万物皆虚，万物皆允,我有push成功吗
+bgImageStyle: { height: "100vh" }
+heroTextStyle: { color: "#fff" }
+bgImage: "/images/bg-logo.svg"
+footer: 陈晨的个人博客
 ---
